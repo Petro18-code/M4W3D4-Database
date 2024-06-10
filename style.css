@@ -1,0 +1,8 @@
+div.input-group, .table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.form-select-lg{
+    font-size: .8rem !important;
+}
